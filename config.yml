@@ -1,0 +1,6 @@
+mysql:
+  user : avnadmin
+  password : AVNS_nez_8VvM4mr5dYJjfnd
+  host : mysql-devoty.aivencloud.com
+  port : 10469
+  dbname : defaultdb
